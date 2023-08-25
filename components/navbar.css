@@ -1,0 +1,17 @@
+.navContainer {
+    background-color: #282828;
+    height: 70px;
+    padding: 20px;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #F8F1E5 !important;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+

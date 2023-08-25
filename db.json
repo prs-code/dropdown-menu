@@ -1,0 +1,71 @@
+{
+    "menuItems": [
+        {
+            "title": "Home",
+            "href": "#",
+            "sub-links": [
+                {
+                    "title": "link1",
+                    "href": "#"
+                },
+                {
+                    "title": "link2",
+                    "href": "#"
+                },
+                {
+                    "title": "link3",
+                    "href": "#"
+                },
+                {
+                    "title": "link4",
+                    "href": "#"
+                }
+            ]
+        },
+        {
+            "title": "Products",
+            "href": "#",
+            "sub-links": [
+                {
+                    "title": "product1",
+                    "href": "#"
+                },
+                {
+                    "title": "product2",
+                    "href": "#"
+                },
+                {
+                    "title": "product3",
+                    "href": "#"
+                },
+                {
+                    "title": "product4",
+                    "href": "#"
+                }
+            ]
+        },
+        {
+            "title": "About us",
+            "href": "#",
+            "sub-links": [
+                {
+                    "title": "aboutus1",
+                    "href": "#"
+                },
+                {
+                    "title": "aboutus2",
+                    "href": "#"
+                },
+                {
+                    "title": "aboutus3",
+                    "href": "#"
+                },
+                {
+                    "title": "aboutus4",
+                    "href": "#"
+                }
+            ]
+        }
+    ]
+    
+}
